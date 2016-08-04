@@ -1,0 +1,35 @@
+_repo: Ballads-of-Peace-in-War_3305
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Earls, Michael
+    birthdate: 1873
+    deathdate: 1937
+    gutenberg_agent_id: '1159'
+    url: http://www.gutenberg.org/2009/agents/1159
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Earls
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- GITenberg
+tableOfContents: His light -- The countersign -- A hill o' lights -- Off to the war
+  -- The towers of Holy Cross -- Always Maytime -- The storyteller -- My father's
+  tunes -- A song -- A ballad of France -- To one in success -- The lifelong war --
+  Linden Lane -- The boundaries of a house -- Attainment -- The philosophers -- Preparedness
+  ( The Drummer Boy -- The Sailor) -- War in the North -- The happy time -- The time
+  of truce -- Bethlehem -- A Vow-Day flower -- The tree in the tenement yard -- Old
+  Hudson rovers -- A winter minster -- The dark little rose -- The monk Maelanfaid
+  -- The young adventurers -- The fountain of youth -- The Bonnie Prince O'Spring
+  -- On a train -- The Columbine -- Two Seanichies -- The Green brigade -- Alleluia
+  Height.
+title: Ballads of Peace in War
+url: http://www.gutenberg.org/ebooks/3305
